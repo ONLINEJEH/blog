@@ -1,0 +1,113 @@
+body {
+	font-family: 'Droid Sans', Helvetica, sans-serif;
+	background: #EFF2F3;
+	color: #3F556A;
+	font-size: 15px;
+}
+
+body p {
+	font-size: 16px;
+}
+
+header {
+	min-height: 500px;
+	background: #358CC0;
+	text-align: center;
+}
+
+header img {
+	margin: 75px auto 50px;
+	display: inline-block;
+	width: 300px;
+}
+
+header h1 {
+	font-size: 26px;
+	font-weight: 300;
+	max-width: 80%;
+	margin: 30px auto 50px;
+	color: #EFF2F3;
+	line-height: 1.5em;
+	font-family: Ubuntu, Helvetica, sans-serif;
+	text-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+}
+
+h2 {
+	font-size: 21px;
+}
+
+header h1 b {
+	font-weight: 600;
+}
+
+header .buttons {
+	margin-bottom: 75px;
+}
+
+header .links a {
+	color: #EFF2F3;
+}
+
+header a.down {
+	font-size: 50px;
+	display: block;
+	margin: 0px auto;
+	color: #EFF2F3;
+	line-height: 1em;
+}
+
+.bigIcon {
+	text-align: center;
+	font-size: 50px;
+	color: #358CC0;
+}
+
+section {
+	padding: 120px 0px;
+}
+
+.blue {
+	background: #358CC0;
+	color: #EFF2F3;
+}
+
+section.white {
+	background: #fff;
+	border-top: 3px dashed #C5CBCE;
+}
+
+section h3 {
+	font-size: 27px;
+}
+
+body .carousel-indicators {
+	top: auto;
+	bottom: 15px;
+}
+
+body .carousel-control {
+	opacity: 0.35;
+}
+
+.question {
+	text-align: left;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+.answer {
+	padding: 0px 20px 20px;
+}
+
+footer {
+	background: #36495C;
+	padding: 30px 0px;
+	color: #EFF2F3;
+}
+
+body footer p {
+	font-size: 13px;
+}
+
+footer a {
+}
